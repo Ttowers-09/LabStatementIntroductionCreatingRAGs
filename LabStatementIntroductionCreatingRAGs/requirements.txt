@@ -1,0 +1,23 @@
+# Configuración
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# LangChain
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-pinecone>=0.2.0
+
+# OpenAI
+openai>=1.50.0
+
+# Pinecone
+pinecone>=5.0.0
+
+# Chroma
+chromadb>=0.5.0
+
+# Utilidades
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
