@@ -48,8 +48,8 @@ El sistema RAG implementa un pipeline de procesamiento de información dividido 
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone xx
-cd xx
+git clone https://github.com/Ttowers-09/LabStatementIntroductionCreatingRAGs.git
+cd LabStatementIntroductionCreatingRAGs
 ```
 
 ### 2. Crear Entorno Virtual
